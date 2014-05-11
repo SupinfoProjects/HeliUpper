@@ -1,0 +1,35 @@
+IDLE = Quand l'hélicoptère fait face
+MOVE = Quand l'hélicoptère bouge
+TURN = Quand l'hélicoptère change de direction
+
+helimouvement.gif
+IDLE:x = 0,31
+IDLE:y = 0,0
+IDLE:w = 27,28
+IDLE:h = 36,36
+
+MOVE:x = 134,179
+MOVE:y = 5,5
+MOVE:w = 38,38
+MOVE:h = 31,31
+
+TURN:x = 67,98
+TURN:y = 0,0
+TURN:w = 28,28
+TURN:h = 36,36
+
+helimouvementleft.gif
+IDLE:x = 190,158
+IDLE:y = 0,0
+IDLE:w = 27,28
+IDLE:h = 36,36
+
+MOVE:x = 0,45
+MOVE:y = 5,5
+MOVE:w = 38,38
+MOVE:h = 31,31
+
+TURN:x = 91,122
+TURN:y = 0,0
+TURN:w = 28,28
+TURN:h = 36,36
